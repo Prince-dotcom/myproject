@@ -1,0 +1,26 @@
+10:50:33.449 [main] INFO  testcases.Testclass - ***** Starting Test case *****
+10:50:34.898 [main] INFO  testcases.Testclass - ***** Clicked on my account *****
+10:50:35.580 [main] INFO  testcases.Testclass - ***** Clicked on register *****
+10:50:35.582 [main] INFO  testcases.Testclass - ***** Providing the user details *****
+10:50:38.935 [main] INFO  testcases.Testclass - ***** Validating the message*****
+10:50:39.112 [main] INFO  testcases.Testclass - ***** Finished *****
+10:57:18.558 [main] INFO  testcases.Testclass - ***** Starting Test case *****
+10:57:19.804 [main] INFO  testcases.Testclass - ***** Clicked on my account *****
+10:57:20.824 [main] INFO  testcases.Testclass - ***** Clicked on register *****
+10:57:20.827 [main] INFO  testcases.Testclass - ***** Providing the user details *****
+10:57:23.749 [main] INFO  testcases.Testclass - ***** Validating the message*****
+11:00:00.294 [main] INFO  testcases.Testclass - ***** Starting Test case *****
+11:00:00.839 [main] INFO  testcases.Testclass - ***** Clicked on my account *****
+11:00:02.268 [main] INFO  testcases.Testclass - ***** Clicked on register *****
+11:00:02.271 [main] INFO  testcases.Testclass - ***** Providing the user details *****
+11:00:14.036 [main] INFO  testcases.Testclass - ***** Validating the message*****
+11:07:15.030 [main] INFO  testcases.Testclass - ***** Starting Test case *****
+11:07:15.885 [main] INFO  testcases.Testclass - ***** Clicked on my account *****
+11:07:16.762 [main] INFO  testcases.Testclass - ***** Clicked on register *****
+11:07:16.765 [main] INFO  testcases.Testclass - ***** Providing the user details *****
+11:07:20.215 [main] INFO  testcases.Testclass - ***** Validating the message*****
+11:12:56.284 [main] INFO  testcases.Testclass - ***** Starting Test case *****
+11:12:56.895 [main] INFO  testcases.Testclass - ***** Clicked on my account *****
+11:12:57.836 [main] INFO  testcases.Testclass - ***** Clicked on register *****
+11:12:57.850 [main] INFO  testcases.Testclass - ***** Providing the user details *****
+11:13:01.782 [main] INFO  testcases.Testclass - ***** Validating the message*****
